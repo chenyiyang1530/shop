@@ -1,7 +1,8 @@
 package com.example.demo.controller;
 
-import com.chen.pojo.User;
-import com.chen.service.IUserService;
+
+import com.example.demo.pojo.User;
+import com.example.demo.service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
